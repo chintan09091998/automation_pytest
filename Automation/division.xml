@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="F2ZGW33" name="pytest" skipped="0" tests="1" time="0.060" timestamp="2020-12-07T17:35:45.134621"><testcase classname="test_div_by_13" file="test_div_by_13.py" line="2" name="test_divisible_by_13" time="0.002"></testcase></testsuite></testsuites>
